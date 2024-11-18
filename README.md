@@ -32,7 +32,7 @@ API testing is a type of software testing where application programming interfac
 
 4. Run the project in Postman.
 
-5. To generate HTML report install <u>Newman</u> in your OS
+5. To generate HTML report install <b>Newman</b> in your OS
 </p>
 
 <h2>💻 Built with: </h2>

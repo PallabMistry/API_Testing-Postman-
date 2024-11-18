@@ -1,4 +1,5 @@
 # API_Testing (Postman)
+API testing is a type of software testing where application programming interfaces (APIs) are tested to determine if they meet expectations for functionality reliability performance and security.API is the acronym for Application Programming Interface which is a software intermediary that allows two applications to talk to each other. Here i use a rest API to do the testing. In the testing it contain 6 phase create booking get booking Update booking token generate and delete booking.
 
 ![Screenshot 2024-11-19 003516](https://github.com/user-attachments/assets/301c7afc-fb4f-4831-91dc-bfec82e8b257)
 ![Screenshot 2024-11-19 003600](https://github.com/user-attachments/assets/04b62fb8-7d26-477b-b384-583e0bb3bc80)

@@ -44,10 +44,4 @@ API testing is a type of software testing where application programming interfac
 - Json
 </p>
 
-<p>
-  Technologies used in the project:
 
-- Postman
-- Newman
-- Json
-</p>
